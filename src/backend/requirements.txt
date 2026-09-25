@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+shazamio
+youtube-search-python
+yt-dlp
+python-multipart
